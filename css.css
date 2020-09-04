@@ -1,0 +1,139 @@
+
+
+#health {
+    position: absolute;
+    padding: 0;
+    width: 204px;
+    height: 8px;
+    left: 78%;
+    top: 49%;
+   /* border: 2px solid black;*/
+    float:left;
+    background:#414141;
+}
+
+#health-box{
+    background:#5f975d;
+    width: 100%;
+    height: 100%;
+}
+
+#stamina {
+    position: absolute;
+    padding: 0;
+    width: 200px;
+    height: 8px;
+    left: 89%;
+    top: 50%;
+   /* border: 2px solid black;*/
+    float:left;
+    background:#414141;
+}
+
+#stamina-box{
+    background:#d0cbc9;
+    width: 100%;
+    height: 100%;
+}
+
+#armor {
+    position: absolute;
+    padding: 0;
+    width: 200px;
+    height: 8px;
+    left: 89%;
+    top: 49%;
+   /* border: 2px solid black;*/
+    float:left;
+    background:#414141;
+}
+
+#armor-box{
+    background:#238ac1;
+    width: 100%;
+    height: 100%;
+}
+
+
+#hunger {
+    position: absolute;
+    left: 83.46%;
+    top: 50%;
+    width: 100px;
+    height: 8px;
+    padding: 0;
+    /*border: 2px solid black;*/
+    float:left;
+    background:#414141;
+}
+
+#thirst {
+    position: absolute;
+    left: 78%;
+    top: 50%;
+    width: 100px;
+    height: 8px;
+    padding: 0;
+   /* border: 2px solid black;*/
+    float:left;
+    background:#414141;
+}
+
+#boxHunger{
+    background: #ceac50;
+    width: 100%;
+    height: 100%;
+    transition: 0.2s ease-in-out;
+}
+
+#boxThirst {
+    background: #4783e3;
+    width: 100%;
+    height: 100%;
+    transition: 0.2s ease-in-out;
+}
+
+#blank {
+    width: 411px;
+    height: 70px;
+    top: 46.8%;
+    left: 78%;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.12);
+}
+
+
+#dollar  {
+    font-size: 14px;
+    position: absolute;
+    left: 78.3%;
+    bottom: 48.4%;
+    width: 14.05%;
+    height: 0.80%;
+    color:rgb(255, 255, 255)
+    
+    
+    
+}
+
+
+#job  {
+    font-size: 14px;
+    position: absolute;
+    left: 78.3%;
+    bottom: 51.7%;
+    width: 14.05%;
+    height: 0.80%;
+    color:white
+}
+
+
+#cash {
+    font-size: 14px;
+    position: absolute;
+    left: 78.7%;
+    bottom: 48.4%;
+    width: 14.05%;
+    height: 0.80%;
+    color:white
+}
